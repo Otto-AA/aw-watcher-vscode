@@ -1,4 +1,7 @@
-# aw-watcher-vscode [WIP]
+*Moved to: https://github.com/ActivityWatch/aw-watcher-vscode/*
+
+
+# aw-watcher-vscode [Outdated. See above]
 
 This extension allows the open source tracking tool [ActivityWatch](http://activitywatch.net/) to keep track of the projects and coding languages you use in Visual Code.
 
